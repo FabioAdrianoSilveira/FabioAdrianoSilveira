@@ -1,5 +1,3 @@
- [![Linkedin Badge](https://img.shields.io/badge/-FabioAdrianoSilveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fabio-adriano-silveira/)](https://www.linkedin.com/in/fabio-adriano-silveira/)
-
 # Sobre mim
 
   Me interessei na carreira como desenvolvedor de software aos 16 anos, quando tive o primeiro contato com linguagens de programação (C++ e C#) e desenvolvimento de sistemas no Instituto Federal de São Paulo.
@@ -8,6 +6,8 @@
   
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioAdrianoSilveira&show_icons=true&theme=tokyonight)
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAdrianoSilveira&theme=tokyonight)
+  
+   [![Linkedin Badge](https://img.shields.io/badge/-FabioAdrianoSilveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fabio-adriano-silveira/)](https://www.linkedin.com/in/fabio-adriano-silveira/)
    
 # Ferramentas de desenvolvimento principais
   
