@@ -4,6 +4,8 @@
   
   Durante o curso descobri a área de desenvolvimento web, o que é meu foco de estudos atual já que quero ser um desenvolver back-end. Hoje, com 18 anos e recém-formado, estou investindo em aprender sobre desenvolvimento de software (principalmente usando JavaScript) e metodologias ágeis para ingressar no mercado de trabalho em breve. <br/>
   
+  ---
+  
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioAdrianoSilveira&show_icons=true&theme=tokyonight)
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAdrianoSilveira&theme=tokyonight)
   
