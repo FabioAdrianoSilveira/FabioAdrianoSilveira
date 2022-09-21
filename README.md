@@ -10,4 +10,4 @@
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAdrianoSilveira&theme=tokyonight)
   
    ---
-  [![Linkedin Badge](https://img.shields.io/badge/-FabioAdrianoSilveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fabio-adriano-silveira/)](https://www.linkedin.com/in/fabio-adriano-silveira/)
+  :[![Linkedin Badge](https://img.shields.io/badge/-FabioAdrianoSilveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fabio-adriano-silveira/)](https://www.linkedin.com/in/fabio-adriano-silveira/):
